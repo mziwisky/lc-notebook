@@ -24,7 +24,6 @@ dependencies:
   - opentelemetry-sdk~=1.25.0
   - opentelemetry-semantic-conventions~=0.46b0
   - python-dotenv~=1.0.0
-  - crc32c~=2.7.1
   - pip
   - pip:
     - ./luminarycloud-0.8.2-py3-none-any.whl
